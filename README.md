@@ -1,4 +1,4 @@
-# Airbnb NYC and CRISP-DM
+# Data Analysis on Airbnb New York City
 The project applies CRISP-DM process on Airbnb New York City listings dataset to gain insight into Airbnb hosting business.
 ***
 ### Prerequisites
@@ -17,14 +17,17 @@ Packages for spatial analysis:
 ### Project Structure
 
 1. Code
-  - `NYC_data_collection` - Data preparation to find good features to work on our model.
-  - `NYC_prep` - Data analysis and visualization.
-  - `NYC_Final` - Basic Linear Regression model is applied.
+  - `NYC_Analysis` - Data preparation and analysis.
+  - `NYC_Prep` - Data analysis and visualization.
+  - `NYC_Final` - Machine learning models are applied along with their evaluation metrics.
+  
 2. Spatial Analysis
   - `nyc_map.html` - The interactive map which shows listings of super hosts around the city.
+  
 3. Data
-  - Data folder includes raw dataset `listings` which can be found on [Inside Airbnb](http://insideairbnb.com/)
-  - `sample.csv` is used for our Linear Regression model.
+  - Data folder includes raw dataset `listings.csv` which can be found on [Inside Airbnb](http://insideairbnb.com/)
+  - `prep_final.csv` and `final_sample` are obtained during data preparation and analysis step.
+  
   
 ## License
 
