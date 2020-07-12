@@ -49,10 +49,15 @@ Airbnb has become a travel trend in recent years. Their economic model benefits 
 CRISP-DM process is applied throughout the project by following 6 basic steps as below:
 
 1. Business understanding
+
 2. Data understanding
+
 3. Data preparation
+
 4. Modeling
+
 5. Evaluation
+
 6. Deployment
 
 Four questions are asked during CRISP-DM process, which aims to predict the price as final goal:
@@ -70,9 +75,13 @@ Four questions are asked during CRISP-DM process, which aims to predict the pric
 ### Summary
 
 - Neighborhood and neighborhood groups play a crucial role in the price.
+
 - Some amenities are more important than others, such as bed linen, TV, coffee machine, cooking basics, etc. As a host, providing amenities that are in demand helps improve ratings. As a result, monthly earnings also enhanced.
+
 - Super hosts centralize within three major boroughs, which include Manhattan, Brooklyn, and Queens.
+
 - The entire home/ apartment and private room are booked the most in NYC.
+
 - Finally, XGBoost stands out as the final result in terms of price prediction.
 
 ***
