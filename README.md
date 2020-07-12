@@ -30,7 +30,7 @@ Airbnb has become a travel trend in recent years. Their economic model benefits 
   - `NYC_Final.ipynb` - Machine learning models are applied along with their evaluation metrics.
 
 2. Interactive map
-  - index.html` - The interactive map which shows listings of super hosts around the city.
+  - `index.html` - The interactive map which shows listings of super hosts around the city.
 
 3. Data folder
   -  `listings.csv` - Raw dataset used in `NYC_Analysis.ipynb` 
