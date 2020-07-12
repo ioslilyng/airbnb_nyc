@@ -1,5 +1,6 @@
 # Data Analysis on Airbnb New York City
 The project applies CRISP-DM process on Airbnb New York City listings dataset to gain insight into Airbnb hosting business.
+A post for this project is on [Medium](https://medium.com/@lilyng15/data-analysis-on-airbnb-new-york-city-60bb85560a01).
 
 ***
 
