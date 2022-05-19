@@ -1,4 +1,21 @@
+env
+
 .ipynb_checkpoints
-**/*.ipynb_checkpoints/
-__pycache__/
-**/data/.ipynb_checkpoints
+.ipynb_checkpoints/
+
+__pycache__
+
+assets
+
+# old notebooks
+ny_analysis.ipynb
+ny_final.ipynb
+ny_prep.ipynb
+
+# old data
+/data/listings.csv
+/data/final_sample.csv
+/data/prep_final.csv
+index.html
+
+README.md
